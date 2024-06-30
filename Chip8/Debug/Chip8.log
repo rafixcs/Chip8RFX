@@ -1,0 +1,16 @@
+﻿  Chip8RFX.cpp
+E:\Dev\Cpp\Emulation\Chip8\Chip8\src\Chip8RFX.h(91,3): warning C4091: 'typedef ': ignorado à esquerda de 'Chip8RFX::Chip8Keys' quando nenhuma variável é declarada
+E:\Dev\Cpp\Emulation\Chip8\Chip8\src\Chip8RFX.cpp(31,20): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\Dev\Cpp\Emulation\Chip8\Chip8\src\Chip8RFX.cpp(236,48): warning C4018: '>=': incompatibilidade de signed/unsigned
+E:\Dev\Cpp\Emulation\Chip8\Chip8\src\Chip8RFX.cpp(383,20): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\Dev\Cpp\Emulation\Chip8\Chip8\src\Chip8RFX.cpp(576,33): warning C4244: '=': conversão de 'uint16_t' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=uint8_t
+          ]
+E:\Dev\Cpp\Emulation\Chip8\Chip8\src\Chip8RFX.cpp(614,33): warning C4244: '=': conversão de 'uint16_t' para '_Ty', possível perda de dados
+          with
+          [
+              _Ty=uint8_t
+          ]
+  Chip8.vcxproj -> E:\Dev\Cpp\Emulation\Chip8\Debug\Chip8.exe
